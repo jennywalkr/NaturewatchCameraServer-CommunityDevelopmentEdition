@@ -1,6 +1,6 @@
 # NaturewatchCameraServer - Community Development edition
 
-This is the Community Development branch for the My Naturewatch Camera. It is a Python server 
+ This is the Community Development branch for the My Naturewatch Camera. It is a Python server 
 that captures a video stream from a Pi Camera and serves it as a .mjpg 
 through a control website to another device. The website can be used to start 
 a photo capture or video capture based on motion detected in the frame. The 
